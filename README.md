@@ -5,8 +5,8 @@
 ```
  1. 새로운 제품군을 생성할 때에는 "basic폴더"를 Copy하여 생성합니다.
  2. 영상의 경우 아래 영상 픽셀값 표를 체크하여 이미지의 가로폭과 근사치의 px 값을 입력하여 적용합니다.
- 3. Github 내에서도 Copy하여 코드 생성 및 수정이 가능하지만 가급적이면 vs Code(visual studio code)를 사용하는 것을 권장합니다.(터미널사용)
- 4. 코드를 업로드 할 시에는 vs Code에 내장되어 있는 터미널 or Window Powershell 터미널을 사용하여 업로드합니다.
+ 3. Github 내에서도 Copy하여 코드 생성 및 수정이 가능하지만 가급적이면 vs Code(visual studio code)를 사용하는 것을 권장합니다.
+ 4. Github에 코드를 업로드 할 시에는 vs Code에 내장되어 있는 터미널 or Window Powershell 터미널을 사용하여 업로드합니다.
 ```
 
 ## 업로드 방법
