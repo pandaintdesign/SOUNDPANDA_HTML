@@ -13,11 +13,9 @@
 
 **폴더명 : ##SOUNDPAND_**
 
-<유실을 대비한 공용폴더 백업>
+<유실을 대비한 공용폴더 백업과 코드백업방법 영상>
 [SOUNDPANDA_code](https://drive.google.com/drive/folders/1YXS5nTr0FRrZiL20rfLOcKGP6cGa8Dwo?usp=sharing, "SOUNDPANDA_code")
 
-<코드백업 영상>
-[SOUNDPANDA_code](https://drive.google.com/drive/folders/1YXS5nTr0FRrZiL20rfLOcKGP6cGa8Dwo, "SOUNDPANDA_code")
 
 ## 영상 픽셀값 (근사치, px단위)
 
