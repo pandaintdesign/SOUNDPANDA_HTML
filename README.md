@@ -1,6 +1,5 @@
 # 필독!
 이곳은 "원격저장소"로 **White의 컴퓨터 폴더(로컬저장소)** 와 연동 되어있습니다! 로컬저장소 폴더 삭제엄금!   
-**폴더명 : ##SOUNDPAND_**
 
 ```
  1. 새로운 제품군을 생성할 때에는 "basic폴더"를 Copy하여 생성합니다.
@@ -12,6 +11,7 @@
 
 ## 업로드 방법
 
+**폴더명 : ##SOUNDPAND_**
 
 <유실을 대비한 공용폴더 백업>
 [SOUNDPANDA_code](https://drive.google.com/drive/folders/1YXS5nTr0FRrZiL20rfLOcKGP6cGa8Dwo?usp=sharing, "SOUNDPANDA_code")
