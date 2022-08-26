@@ -10,8 +10,10 @@
 
 **폴더명 : ##SOUNDPAND_**
 
-<유실을 대비한 공용폴더 백업과 코드백업방법 영상>
+**<유실을 대비한 공용폴더 백업과 코드 백업방법 영상>**
 [SOUNDPANDA_code](https://drive.google.com/drive/folders/1YXS5nTr0FRrZiL20rfLOcKGP6cGa8Dwo?usp=sharing, "SOUNDPANDA_code")
+
+**<Github 내에서 Repository(폴더)생성>**
 
 
 ## 영상 픽셀값 (근사치, px단위)
