@@ -10,11 +10,35 @@
 
 **폴더명 : ##SOUNDPAND_**
 
-**<유실을 대비한 공용폴더 백업과 코드 백업방법 영상>**
+**[유실을 대비한 공용폴더 백업과 코드 백업방법 영상]**
 [SOUNDPANDA_code](https://drive.google.com/drive/folders/1YXS5nTr0FRrZiL20rfLOcKGP6cGa8Dwo?usp=sharing, "SOUNDPANDA_code")
 
-**<Github 내에서 Repository(폴더)생성>**
 
+**[깃허브 명령어 정리]**   
+
+깃허브 내 명령어는 무궁무진하지만 업로드와 다운로드에 관련된 명령어만 추가하겠습니다.
+자세한 항목은 깃 공식 영어전문과 한국어로 정리되어 있는 게시물 링크 첨부합니다.
+
+```
+# 현재 directory(로컬저장소)의 모든 파일을 Staging Area(원격저장소)로 이동
+git add .
+
+# file들의 tracking 상태 보기 -> 업로드가 되었는지, 누락된게 있는지
+git status
+
+# Staging 의 파일들 commit 하기 -> 수정내역 추적할 때 이 메시지로 구분
+git commit -m "messsage"
+
+# 저장소에 commit 반영하기 -> 로컬저장소에서 원격저장소로 업로드
+git push
+
+# 저장소에서 commit 가지고 오기 -> 원격저장소에서 로컬저장소로 다운로드
+git pull
+
+```
+
+- [깃허브 명령어](https://wecandev.tistory.com/152, "깃허브 명령어")
+- [git origin(원문)](https://git-scm.com/docs, "git origin")
 
 ## 영상 픽셀값 (근사치, px단위)
 
