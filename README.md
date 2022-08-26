@@ -8,7 +8,7 @@
 
 ## 업로드 방법
 
-**폴더명 : ##SOUNDPAND_**
+**로컬저장소명 : ##SOUNDPAND_**
 
 **[유실을 대비한 공용폴더 백업과 코드 백업방법 영상]**
 [SOUNDPANDA_code](https://drive.google.com/drive/folders/1YXS5nTr0FRrZiL20rfLOcKGP6cGa8Dwo?usp=sharing, "SOUNDPANDA_code")
