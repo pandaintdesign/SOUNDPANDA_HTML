@@ -38,7 +38,7 @@ git pull
 
 ```
 
-- [깃허브 명령어](https://wecandev.tistory.com/152, "깃허브 명령어")
+- [깃허브 명령어](https://eehoeskrap.tistory.com/666, "깃허브 명령어")
 - [git origin(원문)](https://git-scm.com, "git origin")
 
 ## 영상 픽셀값 (근사치, px단위)
